@@ -1,7 +1,6 @@
 Toyota
 Mazda
 Honda
-<<<<<<< HEAD
 BMW
 Jaguar
 Audi
@@ -9,4 +8,9 @@ Civic
 Kia
 Tesla
 Jeep
+Hyundai
+Nissan
+Lexus
+Ferrari
+
 

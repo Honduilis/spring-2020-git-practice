@@ -2,10 +2,6 @@ red
 pink
 green
 black
-blue
-pink
-orange
-###brown
-purple
+
 
 

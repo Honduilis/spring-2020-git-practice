@@ -4,6 +4,9 @@ green
 black
 grey
 purple
+orange
+blue
+
 
 
 

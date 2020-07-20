@@ -6,6 +6,8 @@ grey
 purple
 orange
 blue
+white
+Gold
 
 
 

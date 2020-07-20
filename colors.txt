@@ -6,8 +6,12 @@ grey
 purple
 orange
 blue
+<<<<<<< HEAD
 white
 Gold
+Violet
+apricot
+
 
 
 

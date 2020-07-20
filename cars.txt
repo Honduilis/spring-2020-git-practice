@@ -1,8 +1,11 @@
 Toyota
 Mazda
 Honda
+<<<<<<< HEAD
 BMW
 Jaguar
-Aldi
-
+Audi
+Civic
+Kia
+Tesla
 

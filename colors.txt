@@ -3,6 +3,8 @@ pink
 green
 black
 grey
+orange
+blue
 
 
 
